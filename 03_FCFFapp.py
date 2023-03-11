@@ -13,7 +13,7 @@ class StonksApp:
         self.master = master
         master.title("StonkApp")
 
-        # App variables
+        # Initialise app variables
         self.idx = 0
         self.current_stock = fcff_df.index[self.idx]
 
@@ -110,6 +110,7 @@ class StonksApp:
 
     def update_buttons_frame(self):
         """ Function to populate button frame with back, next, like, and watchlist buttons """
+        """ Arranges layout of buttons """
         self.button_frame = Frame(self.master)
 
         # Back button
