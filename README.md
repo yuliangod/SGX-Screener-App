@@ -1,4 +1,4 @@
-# StonksApp spinoff from Stonks and Stonks2 repisotory, cleaned up and documented to the best of my ability with scalability in mind
+# StonksApp spinoff from Stonks and Stonks2 repository, cleaned up and documented to the best of my ability with scalability in mind
 
 Description: Investment analysis app to narrow down on companies to further analyse based on plots and numbers of relevant statistics
 
