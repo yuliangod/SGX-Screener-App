@@ -1,6 +1,6 @@
-# SGX Screener App spinoff from Stonks and Stonks2 repository, cleaned up and documented with scalability in mind
+# Spinoff from Stonks and Stonks2 repository, desgined to be a general purpose investment app that can be easily customised for any use case
 
-Description: Investment analysis app to narrow down on SGX stocks to further analyse based on plots and numbers of relevant statistics
+Description: Investment analysis app to narrow down on stocks to further analyse based on plots and numbers of relevant statistics
 
 ### Features: 
 1) Next and back buttons to look through companies ordered by estimated fair value
